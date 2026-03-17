@@ -17,7 +17,7 @@ Attualmente continuo ad approfondire le mie competenze tecniche attraverso lo st
 
 <h3 align="center">📄 Curriculum Vitae </h3>
 
-<p align="center">👉 <a href="curriculum.pdf">Scarica il mio Curriculum Vitae (PDF) </a></p>
+<p align="center">👉 <a href="curriculum_salvatore_napolano.pdf">Scarica il mio Curriculum Vitae (PDF) </a></p>
 
 ---
 
