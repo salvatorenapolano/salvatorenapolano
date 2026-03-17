@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Ciao, sono Salvatore Napolano </h1>
-<h3 align="center">💻 Junior Java Developer con un forte focus sul backend con Java e Spring Boot</h3>
+<h3 align="center">💻 Junior Developer con un forte focus sul backend con Java e Spring Boot</h3>
 
 ## 👨‍💻 About Me
 
