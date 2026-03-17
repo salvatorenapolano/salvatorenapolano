@@ -2,12 +2,22 @@
   <img src="banner.png" width="100%" alt="Info Banner" />
 </div>
 
-<h1 align="center">Ciao, sono Salvatore Napolano 👋</h1>
+<h1 align="center">👋 Ciao, sono Salvatore Napolano </h1>
 <h3 align="center">💻 Junior Java Developer con un forte focus sul backend con Java e Spring Boot</h3>
 
-## 🧑🏻‍🎓 Istruzione
-🎓 Diploma in Informatica e Telecomunicazioni  
-📜 Qualifica EQF5 - Tecnico della programmazione  
+## 👨‍💻 About Me
+
+Sviluppatore con formazione in ambito informatico e specializzazione nello sviluppo software, con particolare interesse per le applicazioni backend e le architetture moderne.
+
+Ho conseguito il diploma in Informatica e Telecomunicazioni e una qualifica professionale EQF5 come Tecnico della programmazione e dello sviluppo di programmi informatici, acquisendo competenze pratiche nello sviluppo di applicazioni web, nella progettazione di API REST e nella gestione di database relazionali.
+
+Attualmente continuo ad approfondire le mie competenze tecniche attraverso lo studio e la realizzazione di progetti, con l’obiettivo di consolidare buone pratiche di sviluppo e lavorare su soluzioni scalabili e ben strutturate.
+
+---
+
+<h3 align="center">📄 Curriculum Vitae </h3>
+
+<p align="center">👉 <a href="curriculum.pdf">Scarica il mio Curriculum Vitae (PDF) </a></p>
 
 ---
 
